@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amit+Kumar+Verma" />
